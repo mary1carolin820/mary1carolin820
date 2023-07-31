@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @mary1carolin820
+- 👀 I’m interested in web applications.
+- 🌱 I’m currently learning Django and Python.
